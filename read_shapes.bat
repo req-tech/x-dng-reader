@@ -1,11 +1,39 @@
 @echo off
-REM filepath: c:\Code\ELM-Python-Client\read_shapes.bat
+REM filepath: c:\Code\x-dng-reader\read_shapes.bat
 echo Starting execution at: %time% on %date%
 set start_time=%time%
 
-set server=https://clm.celeris.se
-set user=
-set password=
+REM Check for environment variables first
+if defined DNG_SERVER (
+    set server=%DNG_SERVER%
+) else if not "%~1"=="" (
+    set server=%~1
+) else (
+    set server=https://clm.celeris.se
+    echo Using default server: %server%
+)
+
+if defined DNG_USER (
+    set user=%DNG_USER%
+) else if not "%~2"=="" (
+    set user=%~2
+) else (
+    echo Error: Username not provided
+    echo Usage: read_shapes.bat server_url username password
+    echo Or set environment variables: DNG_SERVER, DNG_USER, DNG_PASSWORD
+    exit /b 1
+)
+
+if defined DNG_PASSWORD (
+    set password=%DNG_PASSWORD%
+) else if not "%~3"=="" (
+    set password=%~3
+) else (
+    echo Error: Password not provided
+    echo Usage: read_shapes.bat server_url username password
+    echo Or set environment variables: DNG_SERVER, DNG_USER, DNG_PASSWORD
+    exit /b 1
+)
 
 echo Step 1: Getting available projects - Started at %time%
 oslcquery -J %server% -U %user% -P %password% -p "X" > projects.txt

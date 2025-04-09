@@ -9,3 +9,7 @@ elmclient.egg-info
 build
 dist
 .env
+all_properties.csv
+projs_components_configs.txt
+projs_components.txt
+*.html
