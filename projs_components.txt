@@ -1,0 +1,7 @@
+Component 'X' not found in project AI-Widget-TestArea - Available components are:
+  'AI-Widget-TestArea'
+Component 'X' not found in project 1 - PROD - Solutions (RM) - Available components are:
+  'Solutions'
+Component 'X' not found in project 0 - Widget Development Testing Area - streams (rm) - Available components are:
+  '0 - Widget Development Testing Area (DOORS Next)'
+  'Yet an other component'

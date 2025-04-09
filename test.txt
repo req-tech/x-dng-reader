@@ -1,0 +1,184 @@
+﻿$uri,Identifier,http://jazz.net/ns/rm/navigation#parent
+https://clm.celeris.se/rm/materializedviews/VW_KUAlgAVaEe-RgYBXjfQeCw,,
+https://clm.celeris.se/rm/resources/TX_yVD16wVVEe-RgYBXjfQeCw,222601,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVD16gVVEe-RgYBXjfQeCw,222602,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVD17AVVEe-RgYBXjfQeCw,222603,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVNm4AVVEe-RgYBXjfQeCw,222604,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVNm4QVVEe-RgYBXjfQeCw,222605,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVNm4wVVEe-RgYBXjfQeCw,222606,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVD17QVVEe-RgYBXjfQeCw,222607,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVNm4gVVEe-RgYBXjfQeCw,222608,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVNm5AVVEe-RgYBXjfQeCw,222609,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVWw0AVVEe-RgYBXjfQeCw,222610,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVNm5gVVEe-RgYBXjfQeCw,222611,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVWw1AVVEe-RgYBXjfQeCw,222612,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVNm5QVVEe-RgYBXjfQeCw,222613,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVWw0wVVEe-RgYBXjfQeCw,222614,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVWw1QVVEe-RgYBXjfQeCw,222615,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVWw0gVVEe-RgYBXjfQeCw,222616,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVWw1wVVEe-RgYBXjfQeCw,222617,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVWw0QVVEe-RgYBXjfQeCw,222618,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVWw1gVVEe-RgYBXjfQeCw,222619,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVgh0QVVEe-RgYBXjfQeCw,222620,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVgh0AVVEe-RgYBXjfQeCw,222621,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVWw2gVVEe-RgYBXjfQeCw,222622,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVgh1AVVEe-RgYBXjfQeCw,222623,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVgh0wVVEe-RgYBXjfQeCw,222624,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVWw2QVVEe-RgYBXjfQeCw,222625,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVWw2AVVEe-RgYBXjfQeCw,222626,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVgh1wVVEe-RgYBXjfQeCw,222627,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVgh1gVVEe-RgYBXjfQeCw,222628,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVgh1QVVEe-RgYBXjfQeCw,222629,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS0QVVEe-RgYBXjfQeCw,222630,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS0AVVEe-RgYBXjfQeCw,222631,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVgh0gVVEe-RgYBXjfQeCw,222632,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS1AVVEe-RgYBXjfQeCw,222633,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS1wVVEe-RgYBXjfQeCw,222634,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS0gVVEe-RgYBXjfQeCw,222635,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVgh2QVVEe-RgYBXjfQeCw,222636,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS1gVVEe-RgYBXjfQeCw,222637,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVgh2AVVEe-RgYBXjfQeCw,222638,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS0wVVEe-RgYBXjfQeCw,222639,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS2AVVEe-RgYBXjfQeCw,222640,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS1QVVEe-RgYBXjfQeCw,222641,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS2gVVEe-RgYBXjfQeCw,222642,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS2wVVEe-RgYBXjfQeCw,222643,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS3wVVEe-RgYBXjfQeCw,222644,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS3AVVEe-RgYBXjfQeCw,222645,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS3gVVEe-RgYBXjfQeCw,222646,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS2QVVEe-RgYBXjfQeCw,222647,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/TX_yVqS3QVVEe-RgYBXjfQeCw,222648,/Base Artifacts/Templates/Use Case Specification Template artifacts
+https://clm.celeris.se/rm/resources/MD_RbLHYQVYEe-RgYBXjfQeCw,222649,/1 - Requirements
+https://clm.celeris.se/rm/resources/TX_V_r0YAVYEe-RgYBXjfQeCw,222650,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_V-8NgAVYEe-RgYBXjfQeCw,222650,
+https://clm.celeris.se/rm/resources/TX_YVl70AVYEe-RgYBXjfQeCw,222651,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_YU2U8AVYEe-RgYBXjfQeCw,222651,
+https://clm.celeris.se/rm/resources/TX_iXrr0AVYEe-RgYBXjfQeCw,222653,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_iW8E8AVYEe-RgYBXjfQeCw,222653,
+https://clm.celeris.se/rm/resources/DM_yN26UAVYEe-RgYBXjfQeCw,222655,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_yM9icAVYEe-RgYBXjfQeCw,222655,
+https://clm.celeris.se/rm/resources/TX_-DIfMQVYEe-RgYBXjfQeCw,222656,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_-CY4UAVYEe-RgYBXjfQeCw,222656,
+https://clm.celeris.se/rm/resources/TX_zP7wcAVaEe-RgYBXjfQeCw,222657,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_zPV6kAVaEe-RgYBXjfQeCw,222657,
+https://clm.celeris.se/rm/resources/TX_38pXMAVaEe-RgYBXjfQeCw,222658,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_38C6QAVaEe-RgYBXjfQeCw,222658,
+https://clm.celeris.se/rm/resources/TX_8LQFoAVaEe-RgYBXjfQeCw,222659,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_8KposAVaEe-RgYBXjfQeCw,222659,
+https://clm.celeris.se/rm/resources/TX_O1unwAVbEe-RgYBXjfQeCw,222660,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_O1IK0AVbEe-RgYBXjfQeCw,222660,
+https://clm.celeris.se/rm/resources/TX_UArpsAVbEe-RgYBXjfQeCw,222661,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_T_8C0AVbEe-RgYBXjfQeCw,222661,
+https://clm.celeris.se/rm/resources/TX_wzk7YAVdEe-RgYBXjfQeCw,222662,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_wx78oAVdEe-RgYBXjfQeCw,222662,
+https://clm.celeris.se/rm/resources/TX_nXEIMAVeEe-RgYBXjfQeCw,222663,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_nWUhUAVeEe-RgYBXjfQeCw,222663,
+https://clm.celeris.se/rm/resources/TX_tl96cAVeEe-RgYBXjfQeCw,222664,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_tlYEkAVeEe-RgYBXjfQeCw,222664,
+https://clm.celeris.se/rm/resources/TX_t4xsQAVfEe-RgYBXjfQeCw,222665,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/TX_FkX-4AVgEe-RgYBXjfQeCw,222669,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_FivnMAVgEe-RgYBXjfQeCw,222669,
+https://clm.celeris.se/rm/resources/MD_99A9MQVlEe-RgYBXjfQeCw,222670,/3 - Artifacts For Testing/Format Reset V1.2
+https://clm.celeris.se/rm/resources/TX__H9tYAVlEe-RgYBXjfQeCw,222671,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Testing Module V1.2 artifacts
+https://clm.celeris.se/rm/resources/BI__HX3ggVlEe-RgYBXjfQeCw,222671,
+https://clm.celeris.se/rm/resources/TX__1apQAVlEe-RgYBXjfQeCw,222672,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Testing Module V1.2 artifacts
+https://clm.celeris.se/rm/resources/BI__0rCYQVlEe-RgYBXjfQeCw,222672,
+https://clm.celeris.se/rm/resources/TX_AaqrYAVmEe-RgYBXjfQeCw,222673,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Testing Module V1.2 artifacts
+https://clm.celeris.se/rm/resources/BI_AaEOcAVmEe-RgYBXjfQeCw,222673,
+https://clm.celeris.se/rm/resources/TX_BsoCgAVmEe-RgYBXjfQeCw,222674,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Testing Module V1.2 artifacts
+https://clm.celeris.se/rm/resources/BI_BsBlkQVmEe-RgYBXjfQeCw,222674,
+https://clm.celeris.se/rm/resources/TX_CUjlMAVmEe-RgYBXjfQeCw,222675,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Testing Module V1.2 artifacts
+https://clm.celeris.se/rm/resources/BI_CTz-UAVmEe-RgYBXjfQeCw,222675,
+https://clm.celeris.se/rm/resources/TX_DlUpgAVmEe-RgYBXjfQeCw,222676,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Testing Module V1.2 artifacts
+https://clm.celeris.se/rm/resources/BI_DkuMkAVmEe-RgYBXjfQeCw,222676,
+https://clm.celeris.se/rm/resources/TX_MgChwAVmEe-RgYBXjfQeCw,222677,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Testing Module V1.2 artifacts
+https://clm.celeris.se/rm/resources/BI_MfS64AVmEe-RgYBXjfQeCw,222677,
+https://clm.celeris.se/rm/resources/TX_OufWUAVmEe-RgYBXjfQeCw,222678,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Testing Module V1.2 artifacts
+https://clm.celeris.se/rm/resources/BI_OtAIkAVmEe-RgYBXjfQeCw,222678,
+https://clm.celeris.se/rm/resources/TX_PqZk8AVmEe-RgYBXjfQeCw,222679,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Testing Module V1.2 artifacts
+https://clm.celeris.se/rm/resources/BI_PowmMAVmEe-RgYBXjfQeCw,222679,
+https://clm.celeris.se/rm/resources/TX_P6pAYQVmEe-RgYBXjfQeCw,222680,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Testing Module V1.2 artifacts
+https://clm.celeris.se/rm/resources/BI_P5S8lAVmEe-RgYBXjfQeCw,222680,
+https://clm.celeris.se/rm/resources/TX_QKbv4AVmEe-RgYBXjfQeCw,222681,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Testing Module V1.2 artifacts
+https://clm.celeris.se/rm/resources/BI_QJFsEAVmEe-RgYBXjfQeCw,222681,
+https://clm.celeris.se/rm/resources/TX_QikjEAVmEe-RgYBXjfQeCw,222682,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Testing Module V1.2 artifacts
+https://clm.celeris.se/rm/resources/BI_QhYQQAVmEe-RgYBXjfQeCw,222682,
+https://clm.celeris.se/rm/resources/MD_XJnvkAVmEe-RgYBXjfQeCw,222683,/3 - Artifacts For Testing/Format Reset V1.2
+https://clm.celeris.se/rm/resources/TX_XMcaEwVmEe-RgYBXjfQeCw,222684,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts
+https://clm.celeris.se/rm/resources/BI_XJd-ogVmEe-RgYBXjfQeCw,222684,
+https://clm.celeris.se/rm/resources/TX_XMcaFQVmEe-RgYBXjfQeCw,222685,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts
+https://clm.celeris.se/rm/resources/BI_XJd-oAVmEe-RgYBXjfQeCw,222685,
+https://clm.celeris.se/rm/resources/TX_XMcaGQVmEe-RgYBXjfQeCw,222686,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts
+https://clm.celeris.se/rm/resources/BI_XJd-mgVmEe-RgYBXjfQeCw,222686,
+https://clm.celeris.se/rm/resources/TX_XMcaEgVmEe-RgYBXjfQeCw,222687,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts
+https://clm.celeris.se/rm/resources/BI_XJd-ngVmEe-RgYBXjfQeCw,222687,
+https://clm.celeris.se/rm/resources/TX_XMcaGwVmEe-RgYBXjfQeCw,222688,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts
+https://clm.celeris.se/rm/resources/BI_XJd-nQVmEe-RgYBXjfQeCw,222688,
+https://clm.celeris.se/rm/resources/TX_XMcaEAVmEe-RgYBXjfQeCw,222689,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts
+https://clm.celeris.se/rm/resources/BI_XJd-mwVmEe-RgYBXjfQeCw,222689,
+https://clm.celeris.se/rm/resources/TX_XMcaHQVmEe-RgYBXjfQeCw,222690,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts
+https://clm.celeris.se/rm/resources/BI_XJd-nwVmEe-RgYBXjfQeCw,222690,
+https://clm.celeris.se/rm/resources/TX_XMcaFAVmEe-RgYBXjfQeCw,222691,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts
+https://clm.celeris.se/rm/resources/BI_XJd-oQVmEe-RgYBXjfQeCw,222691,
+https://clm.celeris.se/rm/resources/TX_XMcaGgVmEe-RgYBXjfQeCw,222692,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts
+https://clm.celeris.se/rm/resources/BI_XJd-mAVmEe-RgYBXjfQeCw,222692,
+https://clm.celeris.se/rm/resources/TX_XMcaHAVmEe-RgYBXjfQeCw,222693,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts
+https://clm.celeris.se/rm/resources/BI_XJd-lwVmEe-RgYBXjfQeCw,222693,
+https://clm.celeris.se/rm/resources/TX_XMcaFgVmEe-RgYBXjfQeCw,222694,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts
+https://clm.celeris.se/rm/resources/BI_XJd-mQVmEe-RgYBXjfQeCw,222694,
+https://clm.celeris.se/rm/resources/TX_XMcaEQVmEe-RgYBXjfQeCw,222695,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts
+https://clm.celeris.se/rm/resources/BI_XJd-nAVmEe-RgYBXjfQeCw,222695,
+https://clm.celeris.se/rm/resources/MD_ZTdJ8wVmEe-RgYBXjfQeCw,222696,/3 - Artifacts For Testing/Format Reset V1.2
+https://clm.celeris.se/rm/resources/TX_ZVr-hQVmEe-RgYBXjfQeCw,222697,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts2
+https://clm.celeris.se/rm/resources/BI_ZTdJ8gVmEe-RgYBXjfQeCw,222697,
+https://clm.celeris.se/rm/resources/TX_ZVr-jQVmEe-RgYBXjfQeCw,222698,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts2
+https://clm.celeris.se/rm/resources/BI_ZTdJ8AVmEe-RgYBXjfQeCw,222698,
+https://clm.celeris.se/rm/resources/TX_ZVr-gQVmEe-RgYBXjfQeCw,222699,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts2
+https://clm.celeris.se/rm/resources/BI_ZTdJ6gVmEe-RgYBXjfQeCw,222699,
+https://clm.celeris.se/rm/resources/TX_ZVr-jwVmEe-RgYBXjfQeCw,222700,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts2
+https://clm.celeris.se/rm/resources/BI_ZTdJ7gVmEe-RgYBXjfQeCw,222700,
+https://clm.celeris.se/rm/resources/TX_ZVr-gAVmEe-RgYBXjfQeCw,222701,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts2
+https://clm.celeris.se/rm/resources/BI_ZTdJ7QVmEe-RgYBXjfQeCw,222701,
+https://clm.celeris.se/rm/resources/TX_ZVr-gwVmEe-RgYBXjfQeCw,222702,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts2
+https://clm.celeris.se/rm/resources/BI_ZTdJ6wVmEe-RgYBXjfQeCw,222702,
+https://clm.celeris.se/rm/resources/TX_ZVr-hAVmEe-RgYBXjfQeCw,222703,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts2
+https://clm.celeris.se/rm/resources/BI_ZTdJ7wVmEe-RgYBXjfQeCw,222703,
+https://clm.celeris.se/rm/resources/TX_ZVr-ggVmEe-RgYBXjfQeCw,222704,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts2
+https://clm.celeris.se/rm/resources/BI_ZTdJ8QVmEe-RgYBXjfQeCw,222704,
+https://clm.celeris.se/rm/resources/TX_ZVr-jgVmEe-RgYBXjfQeCw,222705,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts2
+https://clm.celeris.se/rm/resources/BI_ZTdJ6AVmEe-RgYBXjfQeCw,222705,
+https://clm.celeris.se/rm/resources/TX_ZVr-hgVmEe-RgYBXjfQeCw,222706,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts2
+https://clm.celeris.se/rm/resources/BI_ZTdJ5wVmEe-RgYBXjfQeCw,222706,
+https://clm.celeris.se/rm/resources/TX_ZVr-igVmEe-RgYBXjfQeCw,222707,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts2
+https://clm.celeris.se/rm/resources/BI_ZTdJ6QVmEe-RgYBXjfQeCw,222707,
+https://clm.celeris.se/rm/resources/TX_ZVr-iAVmEe-RgYBXjfQeCw,222708,/Base Artifacts/2 - Artifacts For Testing/Format Reset V1.2/Copy of Testing Module V1.2 - BACKUP artifacts2
+https://clm.celeris.se/rm/resources/BI_ZTdJ7AVmEe-RgYBXjfQeCw,222708,
+https://clm.celeris.se/rm/resources/CO_vZzCoQeaEe-RgYBXjfQeCw,222721,/0 - Libraries
+https://clm.celeris.se/rm/resources/TX_ufTeYAecEe-RgYBXjfQeCw,222722,"/2 - Solutions/2.1 - Widgets/Widgets (DOORS Next, RM)"
+https://clm.celeris.se/rm/resources/WR_oHR8oAetEe-RgYBXjfQeCw,222724,/
+https://clm.celeris.se/rm/resources/MD_kFib4QhlEe-RgYBXjfQeCw,222725,/1 - Requirements
+https://clm.celeris.se/rm/resources/TX_mM1fkAhlEe-RgYBXjfQeCw,222726,/Base Artifacts/1 - Requirements/RPE - TRV - Fetch status from all streams artifacts
+https://clm.celeris.se/rm/resources/BI_mL8HsAhlEe-RgYBXjfQeCw,222726,
+https://clm.celeris.se/rm/resources/TX_rwYAoAhlEe-RgYBXjfQeCw,222727,/Base Artifacts/1 - Requirements/RPE - TRV - Fetch status from all streams artifacts
+https://clm.celeris.se/rm/resources/BI_rvLt0AhlEe-RgYBXjfQeCw,222727,
+https://clm.celeris.se/rm/resources/TX_T5YEYAhnEe-RgYBXjfQeCw,222728,/Base Artifacts/1 - Requirements/RPE - TRV - Fetch status from all streams artifacts
+https://clm.celeris.se/rm/resources/BI_T4esgAhnEe-RgYBXjfQeCw,222728,
+https://clm.celeris.se/rm/resources/TX_hfmpgAhnEe-RgYBXjfQeCw,222729,/Base Artifacts/1 - Requirements/RPE - TRV - Fetch status from all streams artifacts
+https://clm.celeris.se/rm/resources/BI_he3CoAhnEe-RgYBXjfQeCw,222729,
+https://clm.celeris.se/rm/resources/TX_lqVkkAhnEe-RgYBXjfQeCw,222730,/Base Artifacts/1 - Requirements/RPE - TRV - Fetch status from all streams artifacts
+https://clm.celeris.se/rm/resources/BI_lplWoAhnEe-RgYBXjfQeCw,222730,
+https://clm.celeris.se/rm/resources/TX_I0oHEAhzEe-RgYBXjfQeCw,222731,/Base Artifacts/1 - Requirements/RPE - TRV - Fetch status from all streams artifacts
+https://clm.celeris.se/rm/resources/BI_Izb0QAhzEe-RgYBXjfQeCw,222731,
+https://clm.celeris.se/rm/resources/TX_4opxQAh-Ee-RgYBXjfQeCw,222732,"/2 - Solutions/2.1 - Widgets/Widgets (DOORS Next, RM)"
+https://clm.celeris.se/rm/resources/TX_nSsVkAh_Ee-RgYBXjfQeCw,222733,"/2 - Solutions/2.1 - Widgets/Widgets (DOORS Next, RM)"
+https://clm.celeris.se/rm/resources/TX_Z60d0By9Ee-RgYBXjfQeCw,223369,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_Z5CVIRy9Ee-RgYBXjfQeCw,223369,
+https://clm.celeris.se/rm/resources/TX_raMewBy9Ee-RgYBXjfQeCw,223370,/Base Artifacts/1 - Requirements/Widget - Format Reset artifacts
+https://clm.celeris.se/rm/resources/BI_rYHbIBy9Ee-RgYBXjfQeCw,223370,
+https://clm.celeris.se/rm/resources/MD_IwJTYClnEe-lXMAnwStbdQ,223373,/Test Embed Artifacts
+https://clm.celeris.se/rm/resources/TX_MYTs4ClnEe-lXMAnwStbdQ,223374,/Base Artifacts/Test Embed Artifacts/sample requirements specification artifacts
+https://clm.celeris.se/rm/resources/BI_MWquIClnEe-lXMAnwStbdQ,223374,
+https://clm.celeris.se/rm/resources/TX_NheUYClnEe-lXMAnwStbdQ,223375,/Base Artifacts/Test Embed Artifacts/sample requirements specification artifacts
+https://clm.celeris.se/rm/resources/BI_NgSBkSlnEe-lXMAnwStbdQ,223375,
+https://clm.celeris.se/rm/resources/TX_OT1lcClnEe-lXMAnwStbdQ,223376,/Base Artifacts/Test Embed Artifacts/sample requirements specification artifacts
+https://clm.celeris.se/rm/resources/BI_OTPvkClnEe-lXMAnwStbdQ,223376,

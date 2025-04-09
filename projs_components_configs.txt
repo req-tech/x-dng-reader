@@ -1,0 +1,34 @@
+Project=AI-Widget-TestArea
+Component=AI-Widget-TestArea
+Version 0.29.0
+Configuration 'X' not found in component AI-Widget-TestArea - available configs are:
+  'AI-Widget-TestArea Initial Stream'
+  'Test Baseline'
+  'Dev Stream'
+  'Dev Stream Initial Baseline'
+  'CS for Development'
+Project=1 - PROD - Solutions (RM)
+Component=Solutions
+Version 0.29.0
+Configuration 'X' not found in component Solutions - available configs are:
+  '1 - PROD - Solutions (RM) Initial Stream'
+  'test baseline'
+  'Req Status 27.03.2025'
+Project=0 - Widget Development Testing Area - streams (rm)
+Component=0 - Widget Development Testing Area (DOORS Next)
+Version 0.29.0
+Configuration 'X' not found in component 0 - Widget Development Testing Area (DOORS Next) - available configs are:
+  '0 - Widget Development Testing Area - streams (rm) Initial Stream'
+  'Variant A for a specific customer Initial Baseline'
+  'Format Manager v1.3b4 Test 5'
+  'test'
+  'Dev_Thierry'
+  'ChangeSet_for_GuidingWidget'
+  'Thierry_Dev'
+  'Variant A for a specific customer - change set mandatory'
+Project=0 - Widget Development Testing Area - streams (rm)
+Component=Yet an other component
+Version 0.29.0
+Configuration 'X' not found in component Yet an other component - available configs are:
+  'Yet an other component Initial Stream'
+Processing complete. Reports saved in htmlreports directory.

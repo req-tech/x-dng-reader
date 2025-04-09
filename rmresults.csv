@@ -1,0 +1,413 @@
+﻿$uri,Identifier,Title,http://jazz.net/ns/rm/navigation#parent
+https://homie.byte.fi:9443/rm/resources/MD_EwmZspFnEe-Oy5UELFqR4Q,363,Use Case Template,/Module Template
+https://homie.byte.fi:9443/rm/resources/MD_EwmZs5FnEe-Oy5UELFqR4Q,364,Stakeholder Template,/
+https://homie.byte.fi:9443/rm/resources/MD_EwmZtJFnEe-Oy5UELFqR4Q,365,Systems Template,/
+https://homie.byte.fi:9443/rm/resources/TX_Ew4GkJFnEe-Oy5UELFqR4Q,366,Behavioural Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVm5FnEe-Oy5UELFqR4Q,366,Behavioural Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew4tkJFnEe-Oy5UELFqR4Q,367,"Definitions Acronyms, and Abbreviations",/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVhJFnEe-Oy5UELFqR4Q,367,"Definitions Acronyms, and Abbreviations",
+https://homie.byte.fi:9443/rm/resources/TX_Ew5UoJFnEe-Oy5UELFqR4Q,368,Integration Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVl5FnEe-Oy5UELFqR4Q,368,Integration Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew5UopFnEe-Oy5UELFqR4Q,369,Capacity Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVlJFnEe-Oy5UELFqR4Q,369,Capacity Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew5UoZFnEe-Oy5UELFqR4Q,370,Validation Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrOZFnEe-Oy5UELFqR4Q,370,Validation Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew57sJFnEe-Oy5UELFqR4Q,371,Failed End Condition,/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_Ewwxy5FnEe-Oy5UELFqR4Q,371,Failed End Condition,
+https://homie.byte.fi:9443/rm/resources/TX_Ew57sZFnEe-Oy5UELFqR4Q,372,"<Primary Actor>, <Secondary Actor>, e.g., Astronaut, Mission Control, The Press (use Glossary Terms for actors throughout use case text)",/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwwxzpFnEe-Oy5UELFqR4Q,372,"<Primary Actor>, <Secondary Actor>, e.g., Astronaut, Mission Control, The Press (use Glossary Terms for actors throughout use case text)",
+https://homie.byte.fi:9443/rm/resources/TX_Ew6iwJFnEe-Oy5UELFqR4Q,373,User End States,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrJJFnEe-Oy5UELFqR4Q,373,User End States,
+https://homie.byte.fi:9443/rm/resources/TX_Ew7J0pFnEe-Oy5UELFqR4Q,374,Legacy Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVqZFnEe-Oy5UELFqR4Q,374,Legacy Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew6iwZFnEe-Oy5UELFqR4Q,375,Operational Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVmJFnEe-Oy5UELFqR4Q,375,Operational Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew7J0JFnEe-Oy5UELFqR4Q,376,<Stakeholder/System>,/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwwxxpFnEe-Oy5UELFqR4Q,376,<Stakeholder/System>,
+https://homie.byte.fi:9443/rm/resources/TX_Ew7J0ZFnEe-Oy5UELFqR4Q,377,"<e.g., There is enough fuel in the rocket>",/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwwxyJFnEe-Oy5UELFqR4Q,377,"<e.g., There is enough fuel in the rocket>",
+https://homie.byte.fi:9443/rm/resources/TX_Ew7w4ZFnEe-Oy5UELFqR4Q,378,Interfacing Systems Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrK5FnEe-Oy5UELFqR4Q,378,Interfacing Systems Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew7w4JFnEe-Oy5UELFqR4Q,379,Reliability Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVpZFnEe-Oy5UELFqR4Q,379,Reliability Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew8X8JFnEe-Oy5UELFqR4Q,380,Scope & Level,/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwwxxZFnEe-Oy5UELFqR4Q,380,Scope & Level,
+https://homie.byte.fi:9443/rm/resources/TX_Ew8_AJFnEe-Oy5UELFqR4Q,381,Environmental Considerations,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVi5FnEe-Oy5UELFqR4Q,381,Environmental Considerations,
+https://homie.byte.fi:9443/rm/resources/TX_Ew8_AZFnEe-Oy5UELFqR4Q,382,Constraint Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrNpFnEe-Oy5UELFqR4Q,382,Constraint Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew8X8ZFnEe-Oy5UELFqR4Q,383,Reliability Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVk5FnEe-Oy5UELFqR4Q,383,Reliability Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew8_ApFnEe-Oy5UELFqR4Q,384,Main Flow,/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_Ewwx0ZFnEe-Oy5UELFqR4Q,384,Main Flow,
+https://homie.byte.fi:9443/rm/resources/TX_Ew9mEJFnEe-Oy5UELFqR4Q,385,"<e.g., The launch button is pressed by mission control>",/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_Ewwx0JFnEe-Oy5UELFqR4Q,385,"<e.g., The launch button is pressed by mission control>",
+https://homie.byte.fi:9443/rm/resources/TX_Ew9mEZFnEe-Oy5UELFqR4Q,386,Functions and Purpose,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVipFnEe-Oy5UELFqR4Q,386,Functions and Purpose,
+https://homie.byte.fi:9443/rm/resources/TX_Ew-0MJFnEe-Oy5UELFqR4Q,387,Documentation Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrO5FnEe-Oy5UELFqR4Q,387,Documentation Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew-NIJFnEe-Oy5UELFqR4Q,388,Supportability Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrLJFnEe-Oy5UELFqR4Q,388,Supportability Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew-NIZFnEe-Oy5UELFqR4Q,389,Environmental Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVmZFnEe-Oy5UELFqR4Q,389,Environmental Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew-NIpFnEe-Oy5UELFqR4Q,390,Safety Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVqJFnEe-Oy5UELFqR4Q,390,Safety Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew-0MZFnEe-Oy5UELFqR4Q,391,Portability Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVo5FnEe-Oy5UELFqR4Q,391,Portability Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew_bQJFnEe-Oy5UELFqR4Q,392,Policy and Regulation Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVp5FnEe-Oy5UELFqR4Q,392,Policy and Regulation Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Ew_bQZFnEe-Oy5UELFqR4Q,393,Security Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrLZFnEe-Oy5UELFqR4Q,393,Security Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExACUpFnEe-Oy5UELFqR4Q,394,References,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVhZFnEe-Oy5UELFqR4Q,394,References,
+https://homie.byte.fi:9443/rm/resources/TX_ExACUZFnEe-Oy5UELFqR4Q,395,Interface Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrOJFnEe-Oy5UELFqR4Q,395,Interface Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExACUJFnEe-Oy5UELFqR4Q,396,Performance Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrNJFnEe-Oy5UELFqR4Q,396,Performance Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExApYJFnEe-Oy5UELFqR4Q,397,Maintainability Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVppFnEe-Oy5UELFqR4Q,397,Maintainability Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExBQcJFnEe-Oy5UELFqR4Q,398,Performance Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVkZFnEe-Oy5UELFqR4Q,398,Performance Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExBQcpFnEe-Oy5UELFqR4Q,399,General Constraints,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVjZFnEe-Oy5UELFqR4Q,399,General Constraints,
+https://homie.byte.fi:9443/rm/resources/TX_ExBQcZFnEe-Oy5UELFqR4Q,400,Specific requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrMpFnEe-Oy5UELFqR4Q,400,Specific requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExApYZFnEe-Oy5UELFqR4Q,401,"Primary, Secondary Actors",/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwwxzZFnEe-Oy5UELFqR4Q,401,"Primary, Secondary Actors",
+https://homie.byte.fi:9443/rm/resources/TX_ExB3gZFnEe-Oy5UELFqR4Q,402,"<1. The countdown commences starting (ten, nine, eight, etc.)>",/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_Ewwx0pFnEe-Oy5UELFqR4Q,402,"<1. The countdown commences starting (ten, nine, eight, etc.)>",
+https://homie.byte.fi:9443/rm/resources/TX_ExDFoJFnEe-Oy5UELFqR4Q,403,Introduction,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqEEZFnEe-Oy5UELFqR4Q,403,Introduction,
+https://homie.byte.fi:9443/rm/resources/TX_ExCekJFnEe-Oy5UELFqR4Q,404,Physical Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVmpFnEe-Oy5UELFqR4Q,404,Physical Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExCekpFnEe-Oy5UELFqR4Q,405,Overview of the Document,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVhpFnEe-Oy5UELFqR4Q,405,Overview of the Document,
+https://homie.byte.fi:9443/rm/resources/TX_ExCekZFnEe-Oy5UELFqR4Q,406,Compliance / Regulatory Body Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrLpFnEe-Oy5UELFqR4Q,406,Compliance / Regulatory Body Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExDssJFnEe-Oy5UELFqR4Q,407,Introduction,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVgZFnEe-Oy5UELFqR4Q,407,Introduction,
+https://homie.byte.fi:9443/rm/resources/TX_ExB3gJFnEe-Oy5UELFqR4Q,408,Context,/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwwxwpFnEe-Oy5UELFqR4Q,408,Context,
+https://homie.byte.fi:9443/rm/resources/TX_ExDFoZFnEe-Oy5UELFqR4Q,409,Functional Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVkJFnEe-Oy5UELFqR4Q,409,Functional Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExDssZFnEe-Oy5UELFqR4Q,410,Purpose of the Document,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqEEpFnEe-Oy5UELFqR4Q,410,Purpose of the Document,
+https://homie.byte.fi:9443/rm/resources/TX_ExETwJFnEe-Oy5UELFqR4Q,411,Legacy Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrN5FnEe-Oy5UELFqR4Q,411,Legacy Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExETwZFnEe-Oy5UELFqR4Q,412,Goal,/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_Ewwxw5FnEe-Oy5UELFqR4Q,412,Goal,
+https://homie.byte.fi:9443/rm/resources/TX_ExE60JFnEe-Oy5UELFqR4Q,413,Interface Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVlpFnEe-Oy5UELFqR4Q,413,Interface Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExDsspFnEe-Oy5UELFqR4Q,414,"Definitions Acronyms, and Abbreviations",/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqEFJFnEe-Oy5UELFqR4Q,414,"Definitions Acronyms, and Abbreviations",
+https://homie.byte.fi:9443/rm/resources/TX_ExFh4pFnEe-Oy5UELFqR4Q,415,Intended Use,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrIpFnEe-Oy5UELFqR4Q,415,Intended Use,
+https://homie.byte.fi:9443/rm/resources/TX_ExFh4ZFnEe-Oy5UELFqR4Q,416,Specific Requirements (Delete Sections as applicable),/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVj5FnEe-Oy5UELFqR4Q,416,Specific Requirements (Delete Sections as applicable),
+https://homie.byte.fi:9443/rm/resources/TX_ExGI8ZFnEe-Oy5UELFqR4Q,417,Scalability Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVlZFnEe-Oy5UELFqR4Q,417,Scalability Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExE60ZFnEe-Oy5UELFqR4Q,418,Preconditions,/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_Ewwxx5FnEe-Oy5UELFqR4Q,418,Preconditions,
+https://homie.byte.fi:9443/rm/resources/TX_ExFh4JFnEe-Oy5UELFqR4Q,419,Trigger,/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_Ewwxz5FnEe-Oy5UELFqR4Q,419,Trigger,
+https://homie.byte.fi:9443/rm/resources/TX_ExGwAJFnEe-Oy5UELFqR4Q,420,Overview of the Document,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqEFpFnEe-Oy5UELFqR4Q,420,Overview of the Document,
+https://homie.byte.fi:9443/rm/resources/TX_ExGwApFnEe-Oy5UELFqR4Q,421,Capability Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrM5FnEe-Oy5UELFqR4Q,421,Capability Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExGI8JFnEe-Oy5UELFqR4Q,422,Availability Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVkpFnEe-Oy5UELFqR4Q,422,Availability Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExGwAZFnEe-Oy5UELFqR4Q,423,"<e.g., The spacecraft does not reach escape velocity and the mission is aborted>",/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwwxzJFnEe-Oy5UELFqR4Q,423,"<e.g., The spacecraft does not reach escape velocity and the mission is aborted>",
+https://homie.byte.fi:9443/rm/resources/TX_ExHXEZFnEe-Oy5UELFqR4Q,424,General Constraints,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqEGZFnEe-Oy5UELFqR4Q,424,General Constraints,
+https://homie.byte.fi:9443/rm/resources/TX_ExHXEJFnEe-Oy5UELFqR4Q,425,General Description,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqEF5FnEe-Oy5UELFqR4Q,425,General Description,
+https://homie.byte.fi:9443/rm/resources/TX_ExH-IZFnEe-Oy5UELFqR4Q,426,Documentation Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVoZFnEe-Oy5UELFqR4Q,426,Documentation Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExIlMJFnEe-Oy5UELFqR4Q,427,"<e.g., The spacecraft will reach escape velocity and enter space>",/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwwxypFnEe-Oy5UELFqR4Q,427,"<e.g., The spacecraft will reach escape velocity and enter space>",
+https://homie.byte.fi:9443/rm/resources/TX_ExH-IJFnEe-Oy5UELFqR4Q,428,Legal Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrMZFnEe-Oy5UELFqR4Q,428,Legal Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExIlMpFnEe-Oy5UELFqR4Q,429,Scope of the System,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVg5FnEe-Oy5UELFqR4Q,429,Scope of the System,
+https://homie.byte.fi:9443/rm/resources/TX_ExJMQZFnEe-Oy5UELFqR4Q,430,Operational Environment,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrI5FnEe-Oy5UELFqR4Q,430,Operational Environment,
+https://homie.byte.fi:9443/rm/resources/TX_ExIlMZFnEe-Oy5UELFqR4Q,431,User Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrKJFnEe-Oy5UELFqR4Q,431,User Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExJMQJFnEe-Oy5UELFqR4Q,432,Voluntary/Organizational Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrPJFnEe-Oy5UELFqR4Q,432,Voluntary/Organizational Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExJzUJFnEe-Oy5UELFqR4Q,433,Scope of the Product,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqEE5FnEe-Oy5UELFqR4Q,433,Scope of the Product,
+https://homie.byte.fi:9443/rm/resources/TX_ExKaYJFnEe-Oy5UELFqR4Q,434,Purpose of the Document,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVgpFnEe-Oy5UELFqR4Q,434,Purpose of the Document,
+https://homie.byte.fi:9443/rm/resources/TX_ExKaYpFnEe-Oy5UELFqR4Q,435,Statutory and Regulatory Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrPZFnEe-Oy5UELFqR4Q,435,Statutory and Regulatory Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExLogJFnEe-Oy5UELFqR4Q,436,<1a. During the countdown the abort button is pressed.>,/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_Ewwx1JFnEe-Oy5UELFqR4Q,436,<1a. During the countdown the abort button is pressed.>,
+https://homie.byte.fi:9443/rm/resources/TX_ExLBcJFnEe-Oy5UELFqR4Q,437,Relation to Current Projects,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuViJFnEe-Oy5UELFqR4Q,437,Relation to Current Projects,
+https://homie.byte.fi:9443/rm/resources/TX_ExLBcZFnEe-Oy5UELFqR4Q,438,Model Description,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVjpFnEe-Oy5UELFqR4Q,438,Model Description,
+https://homie.byte.fi:9443/rm/resources/TX_ExJzUZFnEe-Oy5UELFqR4Q,439,Relationship to other Systems,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVjJFnEe-Oy5UELFqR4Q,439,Relationship to other Systems,
+https://homie.byte.fi:9443/rm/resources/TX_ExKaYZFnEe-Oy5UELFqR4Q,440,Alternate Flows,/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_Ewwx05FnEe-Oy5UELFqR4Q,440,Alternate Flows,
+https://homie.byte.fi:9443/rm/resources/TX_ExMPkJFnEe-Oy5UELFqR4Q,441,Environmental Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrMJFnEe-Oy5UELFqR4Q,441,Environmental Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExMPkZFnEe-Oy5UELFqR4Q,442,Health and Safety Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrL5FnEe-Oy5UELFqR4Q,442,Health and Safety Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExLogZFnEe-Oy5UELFqR4Q,443,Operational Scenarios,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrJZFnEe-Oy5UELFqR4Q,443,Operational Scenarios,
+https://homie.byte.fi:9443/rm/resources/TX_ExMPkpFnEe-Oy5UELFqR4Q,444,General Description,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVh5FnEe-Oy5UELFqR4Q,444,General Description,
+https://homie.byte.fi:9443/rm/resources/TX_ExM2oJFnEe-Oy5UELFqR4Q,445,Human Factors,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrNZFnEe-Oy5UELFqR4Q,445,Human Factors,
+https://homie.byte.fi:9443/rm/resources/TX_ExNdsJFnEe-Oy5UELFqR4Q,446,Stakeholder Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrJ5FnEe-Oy5UELFqR4Q,446,Stakeholder Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExOEwJFnEe-Oy5UELFqR4Q,447,User Acceptance Testing Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrOpFnEe-Oy5UELFqR4Q,447,User Acceptance Testing Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExM2oZFnEe-Oy5UELFqR4Q,448,General Capabilities,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqEGJFnEe-Oy5UELFqR4Q,448,General Capabilities,
+https://homie.byte.fi:9443/rm/resources/TX_ExNdsZFnEe-Oy5UELFqR4Q,449,Success End Condition,/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwwxyZFnEe-Oy5UELFqR4Q,449,Success End Condition,
+https://homie.byte.fi:9443/rm/resources/TX_ExOEwZFnEe-Oy5UELFqR4Q,450,References,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqEFZFnEe-Oy5UELFqR4Q,450,References,
+https://homie.byte.fi:9443/rm/resources/TX_ExOEwpFnEe-Oy5UELFqR4Q,451,Logical Data Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVnJFnEe-Oy5UELFqR4Q,451,Logical Data Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExPS4JFnEe-Oy5UELFqR4Q,452,Assumptions and Dependencies,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrJpFnEe-Oy5UELFqR4Q,452,Assumptions and Dependencies,
+https://homie.byte.fi:9443/rm/resources/TX_ExPS4ZFnEe-Oy5UELFqR4Q,453,Acceptance Testing Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVoJFnEe-Oy5UELFqR4Q,453,Acceptance Testing Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExP58pFnEe-Oy5UELFqR4Q,454,Verification Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVn5FnEe-Oy5UELFqR4Q,454,Verification Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExP58ZFnEe-Oy5UELFqR4Q,455,Quality Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVpJFnEe-Oy5UELFqR4Q,455,Quality Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExP58JFnEe-Oy5UELFqR4Q,456,Security Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVopFnEe-Oy5UELFqR4Q,456,Security Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExQhAJFnEe-Oy5UELFqR4Q,457,<Use Case Name>,/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwwxwZFnEe-Oy5UELFqR4Q,457,<Use Case Name>,
+https://homie.byte.fi:9443/rm/resources/TX_ExRvIZFnEe-Oy5UELFqR4Q,458,Operator Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrKZFnEe-Oy5UELFqR4Q,458,Operator Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExQhAZFnEe-Oy5UELFqR4Q,459,Resource Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVnpFnEe-Oy5UELFqR4Q,459,Resource Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExRvIJFnEe-Oy5UELFqR4Q,460,User/Operator/Maintainence Needs,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrIZFnEe-Oy5UELFqR4Q,460,User/Operator/Maintainence Needs,
+https://homie.byte.fi:9443/rm/resources/TX_ExRIEJFnEe-Oy5UELFqR4Q,461,User Characteristics,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrIJFnEe-Oy5UELFqR4Q,461,User Characteristics,
+https://homie.byte.fi:9443/rm/resources/TX_ExRIEZFnEe-Oy5UELFqR4Q,462,Relationship to Predecessor and Successor Projects,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuViZFnEe-Oy5UELFqR4Q,462,Relationship to Predecessor and Successor Projects,
+https://homie.byte.fi:9443/rm/resources/TX_ExOr0JFnEe-Oy5UELFqR4Q,463,"<e.g., To launch a spacecraft>",/Base Artifacts/Module Template/Use Case Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwwxxJFnEe-Oy5UELFqR4Q,463,"<e.g., To launch a spacecraft>",
+https://homie.byte.fi:9443/rm/resources/TX_ExOr0ZFnEe-Oy5UELFqR4Q,464,Purchaser Requirements,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwqrKpFnEe-Oy5UELFqR4Q,464,Purchaser Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_ExRvIpFnEe-Oy5UELFqR4Q,465,Information Management Requirements,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_EwuVnZFnEe-Oy5UELFqR4Q,465,Information Management Requirements,
+https://homie.byte.fi:9443/rm/resources/MD_XY3DYJFpEe-Oy5UELFqR4Q,466,Device Requirements,/
+https://homie.byte.fi:9443/rm/resources/TX_XaieY5FpEe-Oy5UELFqR4Q,467,Requirement Specification for Real-Time Gaming Device,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2ck5FpEe-Oy5UELFqR4Q,467,Requirement Specification for Real-Time Gaming Device,
+https://homie.byte.fi:9443/rm/resources/TX_Xamv0pFpEe-Oy5UELFqR4Q,468,1. Introduction,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cV5FpEe-Oy5UELFqR4Q,468,1. Introduction,
+https://homie.byte.fi:9443/rm/resources/TX_XalhwpFpEe-Oy5UELFqR4Q,469,"The Real-Time Gaming Device shall utilize 5G technology to deliver an online gaming experience with a latency of less than 20 milliseconds, a data throughput of at least 1 Gbps, and a connectivity reliability of 99.9%. The device shall also ensure optimal",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2caJFpEe-Oy5UELFqR4Q,469,"The Real-Time Gaming Device shall utilize 5G technology to deliver an online gaming experience with a latency of less than 20 milliseconds, a data throughput of at least 1 Gbps, and a connectivity reliability of 99.9%. The device shall also ensure optimal",
+https://homie.byte.fi:9443/rm/resources/TX_Xamv1ZFpEe-Oy5UELFqR4Q,470,The latency checker shall measure and report latency values with a maximum allowable latency of 100 milliseconds under normal operating conditions.,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cYpFpEe-Oy5UELFqR4Q,470,The latency checker shall measure and report latency values with a maximum allowable latency of 100 milliseconds under normal operating conditions.,
+https://homie.byte.fi:9443/rm/resources/TX_XaeM8JFpEe-Oy5UELFqR4Q,471,2.1 Functional Requirements,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY11RpFpEe-Oy5UELFqR4Q,471,2.1 Functional Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Xae0BpFpEe-Oy5UELFqR4Q,472,2.1.1 Ultra-Low Latency,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cdpFpEe-Oy5UELFqR4Q,472,2.1.1 Ultra-Low Latency,
+https://homie.byte.fi:9443/rm/resources/TX_Xak6pZFpEe-Oy5UELFqR4Q,473,"The gaming device shall support ultra-low latency communication with a maximum latency of 30 milliseconds and a minimum latency of 10 milliseconds, providing immediate feedback for real-time gaming applications, specifically for fast-paced action games, as",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cd5FpEe-Oy5UELFqR4Q,473,"The gaming device shall support ultra-low latency communication with a maximum latency of 30 milliseconds and a minimum latency of 10 milliseconds, providing immediate feedback for real-time gaming applications, specifically for fast-paced action games, as",
+https://homie.byte.fi:9443/rm/resources/TX_Xae0C5FpEe-Oy5UELFqR4Q,474,2.1.2 High Data Rate,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cWJFpEe-Oy5UELFqR4Q,474,2.1.2 High Data Rate,
+https://homie.byte.fi:9443/rm/resources/TX_XafbF5FpEe-Oy5UELFqR4Q,475,The device shall operate at a data rate of at least 1 Gbps under normal operating conditions.,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cWpFpEe-Oy5UELFqR4Q,475,The device shall operate at a data rate of at least 1 Gbps under normal operating conditions.,
+https://homie.byte.fi:9443/rm/resources/TX_Xae0A5FpEe-Oy5UELFqR4Q,476,2.1.3 Connectivity,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2ckpFpEe-Oy5UELFqR4Q,476,2.1.3 Connectivity,
+https://homie.byte.fi:9443/rm/resources/TX_XajsiJFpEe-Oy5UELFqR4Q,477,"The device must be equipped with a 5G modem capable of supporting both standalone (SA) and non-standalone (NSA) 5G architectures. The modem must support specific frequency bands, including sub-6 GHz and mmWave, to ensure compatibility across different 5G d",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cjpFpEe-Oy5UELFqR4Q,477,"The device must be equipped with a 5G modem capable of supporting both standalone (SA) and non-standalone (NSA) 5G architectures. The modem must support specific frequency bands, including sub-6 GHz and mmWave, to ensure compatibility across different 5G d",
+https://homie.byte.fi:9443/rm/resources/TX_XahQTpFpEe-Oy5UELFqR4Q,478,2.1.4 Input/Output Interfaces,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2ccZFpEe-Oy5UELFqR4Q,478,2.1.4 Input/Output Interfaces,
+https://homie.byte.fi:9443/rm/resources/TX_Xae0BZFpEe-Oy5UELFqR4Q,479,"The device must provide multiple low-latency interfaces for controllers and other gaming peripherals. These interfaces should include Bluetooth 5.2, USB Type-C, and Wi-Fi 6E support to ensure minimal lag during user interaction. Specific latency targets fo",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2chpFpEe-Oy5UELFqR4Q,479,"The device must provide multiple low-latency interfaces for controllers and other gaming peripherals. These interfaces should include Bluetooth 5.2, USB Type-C, and Wi-Fi 6E support to ensure minimal lag during user interaction. Specific latency targets fo",
+https://homie.byte.fi:9443/rm/resources/TX_XajFcZFpEe-Oy5UELFqR4Q,480,2.2 Non-Functional Requirements,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cZJFpEe-Oy5UELFqR4Q,480,2.2 Non-Functional Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_XafbE5FpEe-Oy5UELFqR4Q,481,2.2.1 Performance,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cU5FpEe-Oy5UELFqR4Q,481,2.2.1 Performance,
+https://homie.byte.fi:9443/rm/resources/TX_Xamv0JFpEe-Oy5UELFqR4Q,482,"The device must support a high refresh rate display, with a minimum of 120 Hz refresh rate and a 4K resolution (3840 × 2160 pixels). This ensures that graphics rendering is smooth, reducing visual lag and improving the overall gaming experience.",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cVZFpEe-Oy5UELFqR4Q,482,"The device must support a high refresh rate display, with a minimum of 120 Hz refresh rate and a 4K resolution (3840 × 2160 pixels). This ensures that graphics rendering is smooth, reducing visual lag and improving the overall gaming experience.",
+https://homie.byte.fi:9443/rm/resources/TX_XaeM8ZFpEe-Oy5UELFqR4Q,483,2.2.2 Power Management,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2ceZFpEe-Oy5UELFqR4Q,483,2.2.2 Power Management,
+https://homie.byte.fi:9443/rm/resources/TX_Xae0B5FpEe-Oy5UELFqR4Q,484,"The gaming device must include efficient power management capabilities to extend battery life during prolonged gaming sessions. The battery should have a minimum capacity of 6000 mAh, and the device should support fast charging (at least 45W) to minimize d",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cepFpEe-Oy5UELFqR4Q,484,"The gaming device must include efficient power management capabilities to extend battery life during prolonged gaming sessions. The battery should have a minimum capacity of 6000 mAh, and the device should support fast charging (at least 45W) to minimize d",
+https://homie.byte.fi:9443/rm/resources/TX_Xae0AJFpEe-Oy5UELFqR4Q,485,2.2.3 Thermal Management,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cc5FpEe-Oy5UELFqR4Q,485,2.2.3 Thermal Management,
+https://homie.byte.fi:9443/rm/resources/TX_Xah3VpFpEe-Oy5UELFqR4Q,486,The device should include an advanced thermal management system to prevent overheating during intense gaming sessions. The system should use a combination of vapor chamber cooling and active fan technology to maintain the device temperature below 45°C duri,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cf5FpEe-Oy5UELFqR4Q,486,The device should include an advanced thermal management system to prevent overheating during intense gaming sessions. The system should use a combination of vapor chamber cooling and active fan technology to maintain the device temperature below 45°C duri,
+https://homie.byte.fi:9443/rm/resources/TX_XahQVpFpEe-Oy5UELFqR4Q,487,2.2.4 Security,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2ciZFpEe-Oy5UELFqR4Q,487,2.2.4 Security,
+https://homie.byte.fi:9443/rm/resources/TX_XaeM9JFpEe-Oy5UELFqR4Q,488,"The device must include at least three distinct layers of security to ensure data integrity and privacy, specifically implementing secure boot, hardware-based encryption, and biometric authentication (either fingerprint scanner or facial recognition). Each",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cY5FpEe-Oy5UELFqR4Q,488,"The device must include at least three distinct layers of security to ensure data integrity and privacy, specifically implementing secure boot, hardware-based encryption, and biometric authentication (either fingerprint scanner or facial recognition). Each",
+https://homie.byte.fi:9443/rm/resources/TX_XahQTZFpEe-Oy5UELFqR4Q,489,3. Hardware Requirements,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cUpFpEe-Oy5UELFqR4Q,489,3. Hardware Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Xamv05FpEe-Oy5UELFqR4Q,490,3.1 Processing Units,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2ce5FpEe-Oy5UELFqR4Q,490,3.1 Processing Units,
+https://homie.byte.fi:9443/rm/resources/TX_XaeM85FpEe-Oy5UELFqR4Q,491,3.1.1 Central Processing Unit (CPU),/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cdJFpEe-Oy5UELFqR4Q,491,3.1.1 Central Processing Unit (CPU),
+https://homie.byte.fi:9443/rm/resources/TX_XagCJZFpEe-Oy5UELFqR4Q,492,"The device must be equipped with a multi-core CPU with a minimum of 8 cores and clock speed of at least 2.84 GHz. The CPU must support efficient multitasking, enabling smooth operation of both gaming and background processes. Preferred architectures includ",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cW5FpEe-Oy5UELFqR4Q,492,"The device must be equipped with a multi-core CPU with a minimum of 8 cores and clock speed of at least 2.84 GHz. The CPU must support efficient multitasking, enabling smooth operation of both gaming and background processes. Preferred architectures includ",
+https://homie.byte.fi:9443/rm/resources/TX_Xae0BJFpEe-Oy5UELFqR4Q,493,3.1.2 Graphics Processing Unit (GPU),/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cgJFpEe-Oy5UELFqR4Q,493,3.1.2 Graphics Processing Unit (GPU),
+https://homie.byte.fi:9443/rm/resources/TX_XaieapFpEe-Oy5UELFqR4Q,494,"The GPU must support the latest graphics APIs, such as Vulkan and OpenGL, and should have a minimum of 8 GB of VRAM to render high-quality graphics smoothly. The GPU should be capable of hardware-accelerated ray tracing for enhanced visual realism in suppo",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2chJFpEe-Oy5UELFqR4Q,494,"The GPU must support the latest graphics APIs, such as Vulkan and OpenGL, and should have a minimum of 8 GB of VRAM to render high-quality graphics smoothly. The GPU should be capable of hardware-accelerated ray tracing for enhanced visual realism in suppo",
+https://homie.byte.fi:9443/rm/resources/TX_Xamv0ZFpEe-Oy5UELFqR4Q,495,3.2 Memory and Storage,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2ch5FpEe-Oy5UELFqR4Q,495,3.2 Memory and Storage,
+https://homie.byte.fi:9443/rm/resources/TX_XafbEZFpEe-Oy5UELFqR4Q,496,3.2.1 RAM,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cVpFpEe-Oy5UELFqR4Q,496,3.2.1 RAM,
+https://homie.byte.fi:9443/rm/resources/TX_XaiebZFpEe-Oy5UELFqR4Q,497,"The device must include at least 12 GB of LPDDR5 RAM to support demanding games and ensure quick access to frequently used data, providing a lag-free experience.",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cdZFpEe-Oy5UELFqR4Q,497,"The device must include at least 12 GB of LPDDR5 RAM to support demanding games and ensure quick access to frequently used data, providing a lag-free experience.",
+https://homie.byte.fi:9443/rm/resources/TX_XafbH5FpEe-Oy5UELFqR4Q,498,3.2.2 Internal Storage,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cipFpEe-Oy5UELFqR4Q,498,3.2.2 Internal Storage,
+https://homie.byte.fi:9443/rm/resources/TX_XagCI5FpEe-Oy5UELFqR4Q,499,"The device must have a minimum of 256 GB of UFS 3.1 internal storage to accommodate large game files, updates, and user-generated content. An expandable storage slot supporting microSD cards up to 1 TB is also recommended. It should be specified whether th",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2ccJFpEe-Oy5UELFqR4Q,499,"The device must have a minimum of 256 GB of UFS 3.1 internal storage to accommodate large game files, updates, and user-generated content. An expandable storage slot supporting microSD cards up to 1 TB is also recommended. It should be specified whether th",
+https://homie.byte.fi:9443/rm/resources/TX_XafbEJFpEe-Oy5UELFqR4Q,500,4. Software Requirements,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cjJFpEe-Oy5UELFqR4Q,500,4. Software Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_XaeM9ZFpEe-Oy5UELFqR4Q,501,4.1 Operating System,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cXZFpEe-Oy5UELFqR4Q,501,4.1 Operating System,
+https://homie.byte.fi:9443/rm/resources/TX_XahQV5FpEe-Oy5UELFqR4Q,502,"The device shall operate on a gaming-optimized version of Android or a proprietary operating system that supports high-performance graphics, efficient memory management, and low-level access to hardware resources.",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cj5FpEe-Oy5UELFqR4Q,502,"The device shall operate on a gaming-optimized version of Android or a proprietary operating system that supports high-performance graphics, efficient memory management, and low-level access to hardware resources.",
+https://homie.byte.fi:9443/rm/resources/TX_XanW4ZFpEe-Oy5UELFqR4Q,503,4.2 Game Optimization Features,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cfpFpEe-Oy5UELFqR4Q,503,4.2 Game Optimization Features,
+https://homie.byte.fi:9443/rm/resources/TX_XafbEpFpEe-Oy5UELFqR4Q,504,"The device must include game optimization software to enhance performance during gaming sessions. Features like GPU overclocking, network latency reduction, and resource allocation should be configurable through a dedicated ""Game Mode"" interface.",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cZZFpEe-Oy5UELFqR4Q,504,"The device must include game optimization software to enhance performance during gaming sessions. Features like GPU overclocking, network latency reduction, and resource allocation should be configurable through a dedicated ""Game Mode"" interface.",
+https://homie.byte.fi:9443/rm/resources/TX_XamIx5FpEe-Oy5UELFqR4Q,505,4.3 Network Management,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cWZFpEe-Oy5UELFqR4Q,505,4.3 Network Management,
+https://homie.byte.fi:9443/rm/resources/TX_XafbFZFpEe-Oy5UELFqR4Q,506,"The device must be capable of automatic network switching between Wi-Fi and 5G to maintain uninterrupted connectivity. Additionally, it should support fallback connectivity options, such as 4G LTE, if both 5G and Wi-Fi are unavailable. It should also suppo",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cfJFpEe-Oy5UELFqR4Q,506,"The device must be capable of automatic network switching between Wi-Fi and 5G to maintain uninterrupted connectivity. Additionally, it should support fallback connectivity options, such as 4G LTE, if both 5G and Wi-Fi are unavailable. It should also suppo",
+https://homie.byte.fi:9443/rm/resources/TX_XajsgJFpEe-Oy5UELFqR4Q,507,5. User Interface Requirements,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2chZFpEe-Oy5UELFqR4Q,507,5. User Interface Requirements,
+https://homie.byte.fi:9443/rm/resources/TX_Xae0ApFpEe-Oy5UELFqR4Q,508,5.1 Display,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cXJFpEe-Oy5UELFqR4Q,508,5.1 Display,
+https://homie.byte.fi:9443/rm/resources/TX_XafbGZFpEe-Oy5UELFqR4Q,509,"The gaming device must include a high-quality AMOLED display with a minimum screen size of 6.7 inches. The display should be HDR10+ certified to ensure vibrant colors and deep contrasts, enhancing the visual quality of games.",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2ccpFpEe-Oy5UELFqR4Q,509,"The gaming device must include a high-quality AMOLED display with a minimum screen size of 6.7 inches. The display should be HDR10+ certified to ensure vibrant colors and deep contrasts, enhancing the visual quality of games.",
+https://homie.byte.fi:9443/rm/resources/TX_Xae0DpFpEe-Oy5UELFqR4Q,510,5.2 Touch Sensitivity,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2caZFpEe-Oy5UELFqR4Q,510,5.2 Touch Sensitivity,
+https://homie.byte.fi:9443/rm/resources/TX_Xah3V5FpEe-Oy5UELFqR4Q,511,"The display must support a touch sampling rate of at least 300 Hz to ensure fast and accurate touch response. This is essential for fast-paced gaming where rapid touch input is necessary, particularly for genres such as shooters and rhythm games.",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cX5FpEe-Oy5UELFqR4Q,511,"The display must support a touch sampling rate of at least 300 Hz to ensure fast and accurate touch response. This is essential for fast-paced gaming where rapid touch input is necessary, particularly for genres such as shooters and rhythm games.",
+https://homie.byte.fi:9443/rm/resources/TX_Xaiea5FpEe-Oy5UELFqR4Q,512,5.3 Audio,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cbZFpEe-Oy5UELFqR4Q,512,5.3 Audio,
+https://homie.byte.fi:9443/rm/resources/TX_XajsgZFpEe-Oy5UELFqR4Q,513,"The device must include stereo speakers with Dolby Atmos support for an immersive audio experience. Additionally, it should support low-latency Bluetooth audio codecs, such as aptX Adaptive, for seamless integration with wireless headsets.",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cb5FpEe-Oy5UELFqR4Q,513,"The device must include stereo speakers with Dolby Atmos support for an immersive audio experience. Additionally, it should support low-latency Bluetooth audio codecs, such as aptX Adaptive, for seamless integration with wireless headsets.",
+https://homie.byte.fi:9443/rm/resources/TX_XafbHZFpEe-Oy5UELFqR4Q,514,6. Additional Features,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2ckJFpEe-Oy5UELFqR4Q,514,6. Additional Features,
+https://homie.byte.fi:9443/rm/resources/TX_XalhsZFpEe-Oy5UELFqR4Q,515,6.1 Haptic Feedback,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2ciJFpEe-Oy5UELFqR4Q,515,6.1 Haptic Feedback,
+https://homie.byte.fi:9443/rm/resources/TX_Xae0CpFpEe-Oy5UELFqR4Q,516,"The gaming device must support advanced haptic feedback to provide a more immersive gaming experience. The haptic motors should be capable of delivering precise vibrations to simulate in-game actions, such as gunfire or collisions.",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2ceJFpEe-Oy5UELFqR4Q,516,"The gaming device must support advanced haptic feedback to provide a more immersive gaming experience. The haptic motors should be capable of delivering precise vibrations to simulate in-game actions, such as gunfire or collisions.",
+https://homie.byte.fi:9443/rm/resources/TX_Xae0DJFpEe-Oy5UELFqR4Q,517,6.2 Camera,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cUZFpEe-Oy5UELFqR4Q,517,6.2 Camera,
+https://homie.byte.fi:9443/rm/resources/TX_Xae0AZFpEe-Oy5UELFqR4Q,518,The device should include a front-facing camera with a minimum resolution of 12 MP for game streaming and video chat functionality. The camera should support AI-based background removal to improve the quality of game streams. The expected frame rate for ga,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cZpFpEe-Oy5UELFqR4Q,518,The device should include a front-facing camera with a minimum resolution of 12 MP for game streaming and video chat functionality. The camera should support AI-based background removal to improve the quality of game streams. The expected frame rate for ga,
+https://homie.byte.fi:9443/rm/resources/TX_Xah3WZFpEe-Oy5UELFqR4Q,519,6.3 Connectivity,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2ca5FpEe-Oy5UELFqR4Q,519,6.3 Connectivity,
+https://homie.byte.fi:9443/rm/resources/TX_XaeM8pFpEe-Oy5UELFqR4Q,520,The device must support the following connectivity features:,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2ci5FpEe-Oy5UELFqR4Q,520,The device must support the following connectivity features:,
+https://homie.byte.fi:9443/rm/resources/TX_XakTkZFpEe-Oy5UELFqR4Q,521,Wi-Fi 6E for high-speed local connectivity.,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cgZFpEe-Oy5UELFqR4Q,521,Wi-Fi 6E for high-speed local connectivity.,
+https://homie.byte.fi:9443/rm/resources/TX_XajFcJFpEe-Oy5UELFqR4Q,522,7. Regulatory Compliance,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cgpFpEe-Oy5UELFqR4Q,522,7. Regulatory Compliance,
+https://homie.byte.fi:9443/rm/resources/TX_XagCIpFpEe-Oy5UELFqR4Q,523,"The gaming device must comply with relevant industry standards and regulations, including:",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cjZFpEe-Oy5UELFqR4Q,523,"The gaming device must comply with relevant industry standards and regulations, including:",
+https://homie.byte.fi:9443/rm/resources/TX_XafbGJFpEe-Oy5UELFqR4Q,524,FCC (Federal Communications Commission) certification for electromagnetic compatibility.,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2capFpEe-Oy5UELFqR4Q,524,FCC (Federal Communications Commission) certification for electromagnetic compatibility.,
+https://homie.byte.fi:9443/rm/resources/TX_XahQVJFpEe-Oy5UELFqR4Q,525,8. Testing and Validation,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2ckZFpEe-Oy5UELFqR4Q,525,8. Testing and Validation,
+https://homie.byte.fi:9443/rm/resources/TX_Xalhu5FpEe-Oy5UELFqR4Q,526,8.1 Performance Testing,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cVJFpEe-Oy5UELFqR4Q,526,8.1 Performance Testing,
+https://homie.byte.fi:9443/rm/resources/TX_Xah3VZFpEe-Oy5UELFqR4Q,527,"The device must undergo rigorous performance testing to verify that it meets latency, data rate, and graphics rendering requirements. Tests should include:",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cZ5FpEe-Oy5UELFqR4Q,527,"The device must undergo rigorous performance testing to verify that it meets latency, data rate, and graphics rendering requirements. Tests should include:",
+https://homie.byte.fi:9443/rm/resources/TX_XafbFpFpEe-Oy5UELFqR4Q,528,Latency Tests to measure end-to-end response times in various network conditions.,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cbpFpEe-Oy5UELFqR4Q,528,Latency Tests to measure end-to-end response times in various network conditions.,
+https://homie.byte.fi:9443/rm/resources/TX_XanW4JFpEe-Oy5UELFqR4Q,529,8.2 Battery Life Testing,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cYZFpEe-Oy5UELFqR4Q,529,8.2 Battery Life Testing,
+https://homie.byte.fi:9443/rm/resources/TX_XafbGpFpEe-Oy5UELFqR4Q,530,"Battery life must be tested under different usage scenarios, including continuous gaming, standby, and mixed-use conditions. The device should provide at least 6 hours of battery life during intensive gaming sessions.",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cUJFpEe-Oy5UELFqR4Q,530,"Battery life must be tested under different usage scenarios, including continuous gaming, standby, and mixed-use conditions. The device should provide at least 6 hours of battery life during intensive gaming sessions.",
+https://homie.byte.fi:9443/rm/resources/TX_Xah3WpFpEe-Oy5UELFqR4Q,531,8.3 Thermal Stress Testing,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cXpFpEe-Oy5UELFqR4Q,531,8.3 Thermal Stress Testing,
+https://homie.byte.fi:9443/rm/resources/TX_Xae0CZFpEe-Oy5UELFqR4Q,532,The device must be tested under high-load conditions to evaluate the effectiveness of the thermal management system. The temperature should remain within safe limits during extended gaming sessions.,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cbJFpEe-Oy5UELFqR4Q,532,The device must be tested under high-load conditions to evaluate the effectiveness of the thermal management system. The temperature should remain within safe limits during extended gaming sessions.,
+https://homie.byte.fi:9443/rm/resources/TX_XajFcpFpEe-Oy5UELFqR4Q,533,9. Conclusion,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cfZFpEe-Oy5UELFqR4Q,533,9. Conclusion,
+https://homie.byte.fi:9443/rm/resources/TX_Xae0DZFpEe-Oy5UELFqR4Q,534,"This document provides a comprehensive set of requirements for the development of a Real-Time Gaming Device utilizing 5G technology. The focus on ultra-low latency, high data throughput, advanced display, and thermal management ensures a superior gaming ex",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XY2cYJFpEe-Oy5UELFqR4Q,534,"This document provides a comprehensive set of requirements for the development of a Real-Time Gaming Device utilizing 5G technology. The focus on ultra-low latency, high data throughput, advanced display, and thermal management ensures a superior gaming ex",
+https://homie.byte.fi:9443/rm/resources/TX_6QhbAJIHEe-Oy5UELFqR4Q,539,New Entry,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/TX_7TyO0JIHEe-Oy5UELFqR4Q,540,New Entry,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/TX_YeP_QJJHEe-Oy5UELFqR4Q,541,New Entry,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_YeCj4JJHEe-Oy5UELFqR4Q,541,New Entry,
+https://homie.byte.fi:9443/rm/resources/TX_Z1LV8JJHEe-Oy5UELFqR4Q,542,New Entry,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_Z1CzEJJHEe-Oy5UELFqR4Q,542,New Entry,
+https://homie.byte.fi:9443/rm/resources/TX_uduuUJJHEe-Oy5UELFqR4Q,543,Additional requirement,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_udlkYJJHEe-Oy5UELFqR4Q,543,Additional requirement,
+https://homie.byte.fi:9443/rm/resources/TX_7CJRIJJHEe-Oy5UELFqR4Q,544,New Entry,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/TX_rGSDYJVSEe-Oy5UELFqR4Q,545,New Entry,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_rF_vgJVSEe-Oy5UELFqR4Q,545,New Entry,
+https://homie.byte.fi:9443/rm/resources/WR__IZ3AJ-cEe-TFrrwXcLDwA,549,5G.jpg,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/TX_Rxri8KqYEe-h5a7kaTE9dw,550,This is,/Base Artifacts/Systems Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_RxVksKqYEe-h5a7kaTE9dw,550,This is,
+https://homie.byte.fi:9443/rm/resources/TX_C3Y4cKqZEe-h5a7kaTE9dw,551,System must open logo when opened.,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/BI_C3DhQKqZEe-h5a7kaTE9dw,551,System must open logo when opened.,
+https://homie.byte.fi:9443/rm/resources/WR_InAGoKqZEe-h5a7kaTE9dw,552,process.jpg,/Base Artifacts/Stakeholder Template artifacts
+https://homie.byte.fi:9443/rm/resources/MD_a5UyAKqaEe-h5a7kaTE9dw,553,SW Module,/
+https://homie.byte.fi:9443/rm/resources/TX_dqWvMKqaEe-h5a7kaTE9dw,554,Intro,/Base Artifacts/SW Module artifacts
+https://homie.byte.fi:9443/rm/resources/BI_dqM-MKqaEe-h5a7kaTE9dw,554,Intro,
+https://homie.byte.fi:9443/rm/resources/TX_e3qP0aqaEe-h5a7kaTE9dw,555,Specs,/Base Artifacts/SW Module artifacts
+https://homie.byte.fi:9443/rm/resources/BI_e3jiIKqaEe-h5a7kaTE9dw,555,Specs,
+https://homie.byte.fi:9443/rm/resources/TX_i4b9oKqaEe-h5a7kaTE9dw,556,"The login screen shall display the company logo as specified in the company webpage, positioned at the top center of the screen and scaled to a width of 200 pixels while maintaining the aspect ratio, in accordance with the design specifications.",/Base Artifacts/SW Module artifacts
+https://homie.byte.fi:9443/rm/resources/BI_i4JpwKqaEe-h5a7kaTE9dw,556,"The login screen shall display the company logo as specified in the company webpage, positioned at the top center of the screen and scaled to a width of 200 pixels while maintaining the aspect ratio, in accordance with the design specifications.",
+https://homie.byte.fi:9443/rm/resources/TX_qSWxgKqaEe-h5a7kaTE9dw,557,The login screen shall display the specified logo consistent with the provided image.,/Base Artifacts/SW Module artifacts
+https://homie.byte.fi:9443/rm/resources/BI_qSKkQKqaEe-h5a7kaTE9dw,557,The login screen shall display the specified logo consistent with the provided image.,
+https://homie.byte.fi:9443/rm/resources/TX_saSHUKqaEe-h5a7kaTE9dw,558,Login screen must show this logo,/Base Artifacts/SW Module artifacts
+https://homie.byte.fi:9443/rm/resources/BI_saLZoKqaEe-h5a7kaTE9dw,558,Login screen must show this logo,
+https://homie.byte.fi:9443/rm/resources/TX_be2D8KvZEe-h5a7kaTE9dw,559,This is info with image,/Base Artifacts/SW Module artifacts
+https://homie.byte.fi:9443/rm/resources/BI_beookKvZEe-h5a7kaTE9dw,559,This is info with image,
+https://homie.byte.fi:9443/rm/resources/TX_6BsuILG_Ee-SaoNEV1jXUA,560,HW Req1,/
+https://homie.byte.fi:9443/rm/resources/TX_mAltwLWEEe-SaoNEV1jXUA,561,The device shall be capable of integrating with a boombox via a standard 3.5mm audio jack interface.,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_mAUoALWEEe-SaoNEV1jXUA,561,The device shall be capable of integrating with a boombox via a standard 3.5mm audio jack interface.,
+https://homie.byte.fi:9443/rm/resources/TX_SWVM0LWIEe-SaoNEV1jXUA,562,System supports main hearing aid systems.,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_SWF8QLWIEe-SaoNEV1jXUA,562,System supports main hearing aid systems.,
+https://homie.byte.fi:9443/rm/resources/TX_acvhALWNEe-SaoNEV1jXUA,563,A latency checker is needed as background feature.,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/TX_kdh18LY8Ee-SaoNEV1jXUA,565,New Entry,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_kdPiELY8Ee-SaoNEV1jXUA,565,New Entry,
+https://homie.byte.fi:9443/rm/resources/WR_x8V0YLZQEe-SaoNEV1jXUA,566,MatchingTraceLink.png,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/TX_KA-mELfmEe-rI6dPEMZjRA,567,Add more values,/Base Artifacts/SW Module artifacts
+https://homie.byte.fi:9443/rm/resources/BI_KAfd4LfmEe-rI6dPEMZjRA,567,Add more values,
+https://homie.byte.fi:9443/rm/resources/TX_LbwiALfmEe-rI6dPEMZjRA,568,Remove values,/Base Artifacts/SW Module artifacts
+https://homie.byte.fi:9443/rm/resources/BI_LbdnELfmEe-rI6dPEMZjRA,568,Remove values,
+https://homie.byte.fi:9443/rm/resources/WR_lbb3ILu3Ee-_4d087o9VlA,569,5G_Device.png,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/WR_ujC9oLxAEe-_4d087o9VlA,572,Device Requirements.zip,/
+https://homie.byte.fi:9443/rm/resources/TX_XxuBQLxIEe-_4d087o9VlA,573,New Entry,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_XxcUcLxIEe-_4d087o9VlA,573,New Entry,
+https://homie.byte.fi:9443/rm/resources/TX_t0bqgLxIEe-_4d087o9VlA,574,New Entry,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_t0R5gLxIEe-_4d087o9VlA,574,New Entry,
+https://homie.byte.fi:9443/rm/resources/TX_RFLt4NHrEe-_4d087o9VlA,575,The device shall have an aesthetically pleasing design that meets user satisfaction criteria as determined by a survey with at least 80% positive feedback from users.,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_RE9EYNHrEe-_4d087o9VlA,575,The device shall have an aesthetically pleasing design that meets user satisfaction criteria as determined by a survey with at least 80% positive feedback from users.,
+https://homie.byte.fi:9443/rm/resources/TX_UW3pcOVlEe-uzcOjOC46oQ,577,New Entry,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/TX_S2yhUOVmEe-uzcOjOC46oQ,578,New Entry,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/TX_scMBgOl0Ee-QLM63dPsQCw,580,"The device shall have a user interface that allows users to complete basic tasks within three steps or fewer, ensuring ease of use for individuals with minimal technical experience. Add text here",/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_sbp2AOl0Ee-QLM63dPsQCw,580,"The device shall have a user interface that allows users to complete basic tasks within three steps or fewer, ensuring ease of use for individuals with minimal technical experience. Add text here",
+https://homie.byte.fi:9443/rm/resources/TX_ASuusOnkEe-QLM63dPsQCw,581,New Entry,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_ASZ-kOnkEe-QLM63dPsQCw,581,New Entry,
+https://homie.byte.fi:9443/rm/resources/TX_Qx59AO9tEe-MVuKSoJycXQ,582,New Entry,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_QxaNwO9tEe-MVuKSoJycXQ,582,New Entry,
+https://homie.byte.fi:9443/rm/resources/WR_P6YIAAMJEfCtJOGBQiRgNA,583,img-03171024.png,/Base Artifacts/SW Module artifacts
+https://homie.byte.fi:9443/rm/resources/WR_SqGdoAMJEfCtJOGBQiRgNA,584,LAtex.jpg,/Base Artifacts/SW Module artifacts
+https://homie.byte.fi:9443/rm/resources/BI_SsPLoAMJEfCtJOGBQiRgNA,584,LAtex.jpg,
+https://homie.byte.fi:9443/rm/resources/WR_mnk4sAMJEfCtJOGBQiRgNA,585,img-03171027.png,/Base Artifacts/SW Module artifacts
+https://homie.byte.fi:9443/rm/resources/WR_nqd5EAMJEfCtJOGBQiRgNA,586,Latex2.jpg,/Base Artifacts/SW Module artifacts
+https://homie.byte.fi:9443/rm/resources/BI_ns_BkAMJEfCtJOGBQiRgNA,586,Latex2.jpg,
+https://homie.byte.fi:9443/rm/resources/WR_G2uuEArcEfCtJOGBQiRgNA,587,Formula,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/TX_KDofAA05EfCtJOGBQiRgNA,588,fffff,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_KDZOcA05EfCtJOGBQiRgNA,588,fffff,
+https://homie.byte.fi:9443/rm/resources/TX_WGJOoA05EfCtJOGBQiRgNA,589,New Entry,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_WF26wA05EfCtJOGBQiRgNA,589,New Entry,
+https://homie.byte.fi:9443/rm/resources/TX_konf8A1BEfCGSN0Mhy7mOA,590,New Entry,/Device Requirements artifacts
+https://homie.byte.fi:9443/rm/resources/BI_koBqEA1BEfCGSN0Mhy7mOA,590,New Entry,

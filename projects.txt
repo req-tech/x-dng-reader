@@ -1,0 +1,6 @@
+Version 0.29.0
+Project 'X' not found! Available projects are:
+  'AI-Widget-TestArea'
+  '1 - PROD - Solutions (RM)'
+  '0 - Widget Development Test Area - Plain, no streams (rm)'
+  '0 - Widget Development Testing Area - streams (rm)'
